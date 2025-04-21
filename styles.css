@@ -35,7 +35,7 @@ h2 {
 .input[type="date"]
 .input[type="url"]
 {
-    width: 100%;
+    width: 20px;
     padding: 10px;
     height: max-content;
     margin-bottom: 15px;
